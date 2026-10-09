@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="download" src="https://github.com/user-attachments/assets/811f08ad-d2c8-4411-987d-57341089c2d7" />
+
+
 # 🛡️ MrDiaz | Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professional with **over 2 years of self-directed learning**, building practical skills in penetration-testing fundamentals, Linux, network analysis, and Python automation.
