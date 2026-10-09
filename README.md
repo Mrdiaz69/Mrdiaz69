@@ -5,7 +5,7 @@
 
 Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professional with **over 2 years of self-directed learning**, building practical skills in penetration-testing fundamentals, Linux, network analysis, and Python automation.
 
-🌐 **Portfolio website:** https://mrdiaz69.github.io
+🌐 **Portfolio website:** [https://mrdiaz69.github.io](https://mrdiaz69.github.io/Mrdiaz69/)
 
 ---
 
