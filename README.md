@@ -77,8 +77,8 @@ I have spent over two years learning independently and continue to build my foun
 - **GitHub:** https://github.com/Mrdiaz69
 - **Portfolio:** [https://mrdiaz69.github.io](https://mrdiaz69.github.io/Mrdiaz69/)
 
-- **Email:** Add your professional email here
-- **LinkedIn:** Add your LinkedIn profile here
+- **Email:** Mrdiaz748@gmail.com
+- **LinkedIn:** www.linkedin.com/in/jean-rivera-476116218
 
 ---
 
