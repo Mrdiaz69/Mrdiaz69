@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 
+  
+<img src="data:image/png;base64,iVBOR…BCJGx7C2+TFKAAAAAElFTkSuQmCC" alt="MrDiaz Cyber Security — Protect, Detect, Respond, Secure">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACHwA…PJIEBG1AC5IiEOikoHcp/BCJGx7C2+TFKAAAAAElFTkSuQmCC" width="100%" alt="MrDiaz Cyber Security — Protect, Detect, Respond, Secure">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
